@@ -8,3 +8,5 @@ https://hub.docker.com/repository/docker/kumarina/custom-nginx/general
 ![Скриншот задачи 2](task2.png)
 
 ## Задание 3
+![Скриншот задачи 2](task3.png)
+![Скриншот задачи 2](task3.2.png)
