@@ -29,3 +29,5 @@ https://hub.docker.com/repository/docker/kumarina/custom-nginx/general
 
 ### Отредактированный файл compose.yaml так, чтобы были запущенны оба файла. 
 ![Скриншот задачи 5](task5.2.png)
+
+![Скриншот задачи 5](task5.3.png)
