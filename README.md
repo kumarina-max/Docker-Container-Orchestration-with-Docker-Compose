@@ -31,3 +31,5 @@ https://hub.docker.com/repository/docker/kumarina/custom-nginx/general
 ![Скриншот задачи 5](task5.2.png)
 
 ![Скриншот задачи 5](task5.3.png)
+
+![Скриншот задачи 5](task5.4.png)
