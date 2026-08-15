@@ -5,4 +5,4 @@ Docker Container Orchestration with Docker Compose
 https://hub.docker.com/repository/docker/kumarina/custom-nginx/general 
 
 ## Задание 2
-![Скриншот задания 2](https://main/task2.png)
+![Скриншот задачи 2](https://raw.githubusercontent.com/kumarina-max/Docker-Container-Orchestration-with-Docker-Compose/main/task2.png)
