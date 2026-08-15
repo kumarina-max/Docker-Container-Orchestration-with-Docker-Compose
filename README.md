@@ -22,3 +22,7 @@ https://hub.docker.com/repository/docker/kumarina/custom-nginx/general
 ## Задание 4
 
 ![Скриншот задачи 4](task4.png)
+
+## Задание 5
+
+![Скриншот задачи 5](task5.png)
