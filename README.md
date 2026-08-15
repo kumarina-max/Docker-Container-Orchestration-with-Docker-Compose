@@ -35,4 +35,5 @@ https://hub.docker.com/repository/docker/kumarina/custom-nginx/general
 ![Скриншот задачи 5](task5.4.png)
 
 ### Удаление compose.yaml и выполнение docker compose up -d с предупреждением. Команда docker compose down (погасить проект).
+
 ![Скриншот задачи 5](task5.5.png)
